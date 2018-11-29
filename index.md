@@ -44,10 +44,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Contracting Made Simple. </strong>"
+  content: "{Find, Hire, Contract, Doc Mgmt, Timesheets and Payments} - Everything
+    you need in one system.  You can say no to CATS, Timesheet App, Invoicing app,
+    Website, phone, email - you have them all at etyme. "
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
