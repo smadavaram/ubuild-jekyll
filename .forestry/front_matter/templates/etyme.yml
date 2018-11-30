@@ -2,6 +2,10 @@
 label: etyme
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: blocks
+  name: home_
+  label: 'Home '
+  description: home paige os renkf
 pages:
 - etyme-home.md
